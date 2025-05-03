@@ -1,0 +1,15 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio temp files
+.vs/
+*.user
+*.suo
+
+# Ignore local database files
+*.mdf
+*.ldf
+
+# Ignore logs
+*.log
